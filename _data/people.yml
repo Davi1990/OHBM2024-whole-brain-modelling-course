@@ -23,9 +23,17 @@ speakers:
     profile_pic: /_images/pp/Sorenza_Bastiaens.jpg
     webpage: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sorenza+Bastiaens&btnG=
 
+  - name: Joana Cabral
+    profile_pic: /_images/pp/Joana_Cabral.jpg
+    webpage: https://sites.google.com/site/cvjoanacabral/
+
   - name: James Pang
     profile_pic: /_images/pp/James_Pang.jpg
     webpage: https://scholar.google.com/citations?hl=en&user=QdrOmZgAAAAJ
+
+  - name: Davide Momi
+    profile_pic: /_images/pp/Davide_Momi.jpg
+    webpage: https://davi1990.github.io/
 
   - name: Josefina Cruzat
     profile_pic: /_images/pp/Josefina_Cruzat.jpg

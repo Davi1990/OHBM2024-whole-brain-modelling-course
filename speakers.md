@@ -53,7 +53,7 @@ permalink: /speakers/
 <div style="display: flex; margin-bottom: 20px;">
   <div>
     <h2><strong>Dr. James Pang</strong></h2>
-    <p><em>Director of the ShineLab</em></p>
+    <p><em>​Post-Doctoral Research Fellow</em></p>
     <img src="{{ site.baseurl }}/_images/pp/James_Pang.jpg" alt="James Pang" style="width: 200px; height: 200px; border-radius: 50%; float: right;">
     <p>James Pang received his PhD in Physics from the University of Sydney and completed his postdoctoral training in the Brain Modelling Group at QIMR Berghofer Medical Research Institute in Brisbane, Australia. He is currently a Research Fellow at the Turner Institute for Brain and Mental Health, School of Psychological Sciences. Dr. Pang's research employs a multidisciplinary approach that combines biophysical models, neuroimaging, and connectivity to better understand the mechanisms of brain function in health, disease, and across species. His innovative work in these areas has been recognized with the prestigious NHMRC EL1 Fellowship. Dr. Pang's contributions are advancing our understanding of brain function and have significant implications for both clinical applications and fundamental neuroscience.</p>
   </div>
