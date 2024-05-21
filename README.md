@@ -3,7 +3,7 @@
 This is the official Repository of the OHBM's Educational Course entitled Whole-brain, Connectome-based Models of Brain Dynamics: From Principles to Applications organized by Dr. Davide Momi, Dr. John Griffiths & Dr. Joana Cabral
 
 
-![alt text](https://raw.githubusercontent.com/GriffithsLab/OHBM-educational-course/main/logo.jpeg)
+![alt text](https://raw.githubusercontent.com/GriffithsLab/OHBM-educational-course/gh-pages/logo.png)
 
 Our aim is to provide an advanced yet accessible showcase of, and introduction to, the latest cutting-edge work in whole-brain (also known as ‘large-scale’ or ‘connectome-based’) network modelling in contemporary human brain mapping research. This field represents an integrative convergence of data, concepts, and techniques from structural+functional neuroimaging, systems+cognitive neuroscience, dynamical systems+network science, neurology+psychiatry, computational neuroscience, and machine learning.
 
