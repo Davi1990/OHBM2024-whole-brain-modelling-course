@@ -60,3 +60,35 @@ $on-laptop:        950px;
 	    "fancy-image"
 ;
 
+/* Add the new styles for the profile container */
+.profile-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.profile-pic-gallary {
+    flex: 1 1 45%; /* Adjust the width as needed */
+    margin: 10px;
+}
+
+.image--cover-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.image--cover {
+    border-radius: 50%;
+    width: 100px; /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    object-fit: cover;
+}
+
+.contacts {
+    list-style: none;
+    padding: 0;
+}
+
+.contacts li {
+    margin-bottom: 10px;
+}
