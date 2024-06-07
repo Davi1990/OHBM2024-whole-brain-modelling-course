@@ -12,26 +12,31 @@ Please find below the full program.
 
 ### Schedule
 
-#### 1) Background / Theory
-##### 08:00-08:50 ~~ MORNING COFFEE & GREETS ~~ 
+#### 1) Understanding the Fundamentals: Theory and Background
+##### 08:00-08:40 ~~ MORNING COFFEE & GREETS ~~
 
-08:50-09:00 - Intro to the workshop [Davide Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[John Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
-09:00-09:45 - Intro to dynamics [Viktor Jirsa](https://scholar.google.com/citations?user=0ZVdLpMAAAAJ&hl=en) <br>
-09:45-10:30 - Intro to connectivity [Joana Cabral](https://scholar.google.com/citations?user=v3ZEOeMAAAAJ&hl=en&oi=ao) <br>
-10:30-11:15 - Intro to connectome-based neural mass modeling [Sorenza Bastiaens](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sorenza+Bastiaens&btnG=) <br>
-11:15-12:15 - Hands-on Session 1 [Davide Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[John Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
+08:40-09:00 - Introduction to the workshop - [JD Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
+09:00-09:40 - Introduction to Dynamics - [V Jirsa](https://scholar.google.com/citations?user=0ZVdLpMAAAAJ&hl=en)<br>
+09:40-10:20 - Criticality, metastability, multistability: The “primitives” of complex brain dynamics - [M Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en&oi=ao)<br>
+10:20-11:00 - Intro to connectome-based neural mass modeling - [SP Bastiaens](https://scholar.google.com/citations?user=KO2SlS0AAAAJ&hl=en&oi=ao)<br>
+11:00-11:20 - Panel discussion<br>
+11:20-12:00 - Hands-on Session 1 - [D Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[JD Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
 
-##### 12:15-13:00 ~~ LUNCH ~~
+##### 12:00-12:45 ~~ LUNCH ~~
 
-#### 2) Applications 1: Systems/Cognitive <br>
-13:00-13:45 - Metastable brain waves [Michael Breakspear](https://scholar.google.com/citations?user=hrx691cAAAAJ&hl=en&oi=ao) <br>
-13:45-14:30 - Neuromodulatory systems [James M Shine](https://scholar.google.com/citations?user=Uxvu7CsAAAAJ&hl=en&oi=ao) <br>
-14:30-15:15 - Training connectomes to perform memory tasks [Laura Suarez](https://scholar.google.com/citations?user=3_jINP8AAAAJ&hl=en&oi=ao) <br>
-15:15-16:00 - Hands-on Session 2 [Davide Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[John Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao) <br>
+#### 2) In Action: Cognitive Systems and Applications
 
-##### 16:00-16:15 ~~ BREAK ~~
+12:45-13:25 - Waves or Networks at the basis of Cognition? - [J Cabral](https://scholar.google.com/citations?user=v3ZEOeMAAAAJ&hl=en&oi=ao)<br>
+13:25-14:05 - Brain geometry and dynamics - [JC Pang](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=JC+pang&btnG=)<br>
+14:05-14:45 - Modelling of brain stimulation and network dynamics - [D Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)<br>
+14:45-15:05 - Panel discussion<br>
+15:05-15:45 - Hands-on Session 2 - [D Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[JD Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
 
-#### 3) Applications 2: Clinical 
-16:15-17:00 - Epilepsy [Borana Dollomaja](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Borana+Dollomaja&btnG=) <br>
-17:00-17:45 - Alzheimer’s Disease [Leon Stefanovski](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=leon+stefanovski) <br>
-17:45-18:30 - Hands-on Session 3 [Davide Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[John Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
+##### 15:45-16:00 ~~ BREAK ~~
+
+#### 3) Beyond Theory: Clinical Applications and Practice
+
+16:00-16:40 - Psychedelic Drugs and Brain Dynamics - [J Cruzat](https://scholar.google.com/citations?user=fZZ5WZcAAAAJ&hl=en&oi=ao)<br>
+16:40-17:20 - Neurocomputational modelling for predicting psychosis - [A Diaconescu](https://scholar.google.com/citations?user=XLtBQ4kAAAAJ&hl=en&oi=ao)<br>
+17:20-17:40 - Panel discussion<br>
+17:40-18:00 - Hands-on Session 3 - [D Momi](https://scholar.google.com/citations?user=I-BACCgAAAAJ&hl=en&oi=ao)/[JD Griffiths](https://scholar.google.com/citations?user=xwkt6aQAAAAJ&hl=en&oi=ao)<br>
