@@ -13,16 +13,16 @@
 
 {% if all_events_sorted.size > 0 %}
 <div class="announcement-box" style="margin-top:30px">
-<h2>Two Truths and a Lie:</h2>
+<h2>Course Highlights and Expectations:</h2>
 <ul>
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                One of our guest speakers claims to have invented a "Brainwave Translator" that can decipher what squirrels are saying. Unfortunately, during the testing phase, and all we got were nutty conspiracy theories. We'll keep trying, though!
+            Networking Opportunities: Connect with leading experts and peers in the field. Our course provides ample opportunities for networking, allowing you to build valuable professional relationships.
                 <!-- {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
-                As organizers, we ensure an engaging experience for all participants. To achieve this, we have developed a mind-reading device. It detects sleepiness during lectures and deploys tickling robots to jolt back full attention.
+                Hands-On Workshops: Participate in practical sessions designed to give you real-world experience with advanced brain modeling techniques. Use state-of-the-art tools and software to analyze and interpret brain data.
             {% else%}
                 {{ n.description }}
             {% endif %}

@@ -13,9 +13,9 @@ The entire course can be easily run in Google Colab. However, if you prefer to r
 <br/>
 The Google Colab can be downloaded at the following link:<br/>
 <br/>
-[LINK](https://drive.google.com/drive/folders/1Dnk5HyudcVPXVNT3l7E1FwW1FVIf01Lg?usp=sharing)<br/>
+[LINK](https://drive.google.com/drive/folders/1uR-NMDuaQtJs0wJAwG8NKWQ9x5xbeysQ?usp=sharing)<br/>
 <br/>
-In the 'hands_on_session' folder, you will find all three notebooks necessary to follow along with the session. Additionally, the 'Talk_short_Demo' folder contains the notebooks used by some of the speakers during their theoretical talk.
+In the 'hands_on_session' folder, you will find all three notebooks necessary to follow along with the session.
 <br/>
 <br/>
 ## Troubleshooting

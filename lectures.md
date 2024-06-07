@@ -66,7 +66,7 @@ The overarching idea is to model the brain at the macroscale as a network of int
 These features include: fast oscillations in local field potential (LFP) and extracranial electromagnetic (MEG, EEG) signals; slow quasi-periodic activity fluctuations in haemodynamic (BOLD fMRI, fNIRS) signals; inter-regional synchrony/covariance (‘functional connectivity’) and causal interactions (‘effective connectivity’) in both fast and slow activity patterns; sensory- or electromagnetic stimulation-evoked response waveforms; graph-theoretic properties large-scale network activity; and many others.</p>
 
 <h3><strong>Presenter</strong></h3>
-<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=mental%20health%20outcomes..-,Sorenza%20Bastiaens,-Ph.D.%20Candidate">Sorenza Bastiaens</a><br/>
+<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=mental%20health%20outcomes.-,Sorenza%20Bastiaens,-Ph.D.%20Candidate">Sorenza Bastiaens</a><br/>
 CAMH Toronto, Ontario<br/>
 Canada</p>
 <br/>
@@ -78,7 +78,7 @@ Canada</p>
 <p>How the cognition ‘emerges’ from the physical structure of the brain remains unclear. Neuroimaging studies reveal signatures of cognition in the dynamics of large-scale functional networks, whose origin and generative mechanisms remain under debate. Efforts have been made to link the formation of functional networks at the macroscale to neuronal activity at the microscale using whole-brain computational models. While these models have served to support distinct mechanistic hypothesis for the genesis of functional networks, an alternative hypothesis relating functional networks to resonance phenomena is emerging. In my talk I will discuss these two distinct perspectives, reinforcing the importance to maintain openness to different mechanistic hypothesis while new evidence is needed to disambiguate current conflicts.</p>
 
 <h3><strong>Presenter</strong></h3>
-<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=The%20Virtual%20Brain.-,Dr.%20Joana%20Cabral,-Postdoctoral%20Research%20Scientist">Joana Cabral</a><br/>
+<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=treatments%20and%20interventions.-,Dr.%20Joana%20Cabral,-Postdoctoral%20Research%20Scientist">Joana Cabral</a><br/>
 University of Minho Braga<br/>
 Portugal</p>
 <br/>
@@ -88,7 +88,7 @@ Portugal</p>
 <p>The dynamics of many physical systems are naturally constrained by their underlying structure. Here, I will show that the nervous system is no exception, with geometric eigenmodes derived from the brain’s cortical and subcortical geometry accurately capturing diverse experimental human functional magnetic resonance imaging (fMRI) data from spontaneous and task-evoked recordings. Moreover, these geometric constraints are unique to each individual and universally exist across different species. Finally, I will show that the close link between geometry and function is explained by a dominant role of wave-like activity, and that wave dynamics can reproduce numerous canonical features of functional brain organization. These findings identify a previously underappreciated role of geometry in shaping function, as predicted by a unifying and physically principled model of brain-wide dynamics. </p>
 
 <h3><strong>Presenter</strong></h3>
-<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=mental%20health%20outcomes.-,Dr.%20James%20Pang,-Director%20of%20the">James Pang</a><br/>
+<p class="presenter"><a href="https://davi1990.github.io/OHBM2024-whole-brain-modelling-course/speakers/#:~:text=Dr.-,James,-Pang">James Pang</a><br/>
 Monash University Melbourne, Victoria <br/>
 Australia</p>
 <br/>
